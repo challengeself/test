@@ -5,3 +5,4 @@ Git tracks changes of file.
 push to remote.
 Creating a new branch is quick and simple.
 test merge
+test stash
